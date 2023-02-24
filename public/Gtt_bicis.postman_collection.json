@@ -1,0 +1,195 @@
+{
+	"info": {
+		"_postman_id": "4d357a47-d2d0-433c-9eaa-11e35fab36b8",
+		"name": "Gtt_bicis",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Gtt Api",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "sos-token",
+						"value": "safd124214·$%·SWLD!=\"$SD!\"$",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{url_gtt}}/gttapi/polizas/5511112222",
+					"host": [
+						"{{url_gtt}}"
+					],
+					"path": [
+						"gttapi",
+						"polizas",
+						"5511112222"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "post contratacion",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "sos-token",
+						"value": "safd124214·$%·SWLD!=\"$SD!\"$"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "data",
+							"value": "{\"alcaldia\":\"Cuauhtémoc\",\"colonia\":\"docgores\",\"correo\":\"alexs090@gmail.com\",\"cp\":\"06720\",\"direccion\":\"Dr Márquez 58\",\"ejecutivo\":\"sos_ciclista\",\"fechaContratacion\":\"Thu May 27 23:09:27 CDT 2021\",\"fechaNacimiento\":\"21/05/1992\",\"nombreTitular\":\"john Cristobal \",\"rfc\":\"cijj920484kfk\",\"telefono\":\"5599993000\"}",
+							"type": "text"
+						},
+						{
+							"key": "lateral",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/assets/heroes/dc-arrow.jpg"
+						},
+						{
+							"key": "pedal",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/assets/heroes/dc-flash.jpg"
+						},
+						{
+							"key": "sillin",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/assets/heroes/marvel-cyclops.jpg"
+						},
+						{
+							"key": "manubrio",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/bici_lateral.png"
+						},
+						{
+							"key": "pago",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/assets/heroes/marvel-hawkeye.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url_gtt}}/gttapi/contratacion",
+					"host": [
+						"{{url_gtt}}"
+					],
+					"path": [
+						"gttapi",
+						"contratacion"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "put contratacion",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "sos-token",
+						"value": "safd124214·$%·SWLD!=\"$SD!\"$",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "lateral",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/bici_lateral-2.png"
+						},
+						{
+							"key": "sillin",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/bici_sillin-3.png"
+						},
+						{
+							"key": "manubrio",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/bici_manubrio-3.png"
+						},
+						{
+							"key": "pedal",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/bici_pedal-3.png"
+						},
+						{
+							"key": "poliza",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/POLIZA DE PRUEBA BICICLETA1.pdf"
+						},
+						{
+							"key": "telefono",
+							"value": "5586140593",
+							"type": "text"
+						},
+						{
+							"key": "folio",
+							"value": "11_07_1961",
+							"type": "text"
+						},
+						{
+							"key": "pago",
+							"type": "file",
+							"src": "/Users/macbook/Downloads/comprobante_pago-2.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url_gtt}}/gttapi/contratacion",
+					"host": [
+						"{{url_gtt}}"
+					],
+					"path": [
+						"gttapi",
+						"contratacion"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "post login",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "sos-token",
+						"value": "safd124214·$%·SWLD!=\"$SD!\"$",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"phone\": \"5599993000\",\n    \"pass\": \"05_04_1961\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_gtt}}/gttapi/polizas/login",
+					"host": [
+						"{{url_gtt}}"
+					],
+					"path": [
+						"gttapi",
+						"polizas",
+						"login"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

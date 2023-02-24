@@ -1,0 +1,2610 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <Folder>
+      <name>BICIMECÁNICOS CDMX</name>
+      <Placemark>
+        <name>Bici taller mecánico </name>
+        <description>L-V hasta las 8 pm S-2pm</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1879938,19.4928458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicitaller CDMX </name>
+        <description>11 - 20 hrs. L-S</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1880159,19.4945873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1850155,19.4959491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "EL TRIUNFO" ]]></name>
+        <description>L-S 11-19 hrs. </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1824991,19.4892607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "BETO"]]></name>
+        <description>L-V 11-18 Hrs , S 11-16 hrs.</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1703644,19.5076935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller mecánico </name>
+        <description>L-V 11-19 hrs. </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.183472,19.4813654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "EL GALGO"]]></name>
+        <description>Horario desconocido </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1540695,19.4483169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bicimecánico </name>
+        <description>L-V 11-18 hrs S- horario desconocido</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1611103,19.4551271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bici- mecánico </name>
+        <description>Horario desconocido </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1098422,19.3650563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "BICISOLUCIONES" ]]></name>
+        <description>Horario desconocido. </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1571344,19.4207968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "PORAY" ]]></name>
+        <description>L-D TEL 50351810</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1477961,19.4362543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "BIKES DESIGN"]]></name>
+        <description>Horario y días desconocidos </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1761701,19.4183364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "MANUEL"]]></name>
+        <description>Días y horarios desconocidos</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1967253,19.3730999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRINO BIKE STORE</name>
+        <description>Días y horarios desconocidos </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.15944,19.3544892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller mecánico</name>
+        <description>Días y horarios desconocidos </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1423163,19.3855128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller Bici-mecánico</name>
+        <description>Días y horarios desconocidos </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.141837,19.4625153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manzano Cycles bicycle shop</name>
+        <description>L-V hasta las 7pm S-3pm </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.139821,19.448976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BICICOAPA</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.134576,19.308402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Cleta</name>
+        <description>L-V 9:30 a 19:30 hrs. S 10 a 17 hrs. </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.143913,19.362636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DUBIKES TALLER COMUNITARIO </name>
+        <description>tel 57540903</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.144907,19.4978711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["AGENCIA DE BICICLETAS" TALLER]]></name>
+        <description>Horario desconocido </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1064278,19.4598874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de BICICLETAS PEDAL Y FIBRA</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1060895,19.4615372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bici-mecánico</name>
+        <description>Días y horarios desconocidos</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1116566,19.445472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bici-mecánico </name>
+        <description>Horario y días desconocidos </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1277096,19.3996524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "El campeón"]]></name>
+        <description>Días y horarios desconocidos </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.131882,19.394075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oskarbyke taller de reparación de bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1109709,19.3589762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller Bici-mecánico </name>
+        <description>Días y horarios desconocidos </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1016206,19.3892118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Plomeria y Taller de Bicicletas "Moby-Dick"]]></name>
+        <description>Deias y horarios desconocidos </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0875595,19.4195262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller Bici-mecánico </name>
+        <description>L-D de 8- 20 hrs. </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0153432,19.3804063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Ciclotecnica"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1510292,19.4320898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[TALLER "MOCHILERO"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1543519,19.4153613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller De Bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1632823,19.414487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "STARBIKE"]]></name>
+        <description>M-V de 11 a 18:30 hrs. S de 11 a 16:30 hrs. </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.287622,19.328777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biciclismo</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1164305,19.3276608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bici-mecánico </name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.101285,19.4303095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BICICLETAS TRUJILLO</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.107849,19.3218624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas </name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1425018,19.445159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Team Bike México</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0520834,19.4074004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas Manuel</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.038105,19.290539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller De Bicicletas "Manuel"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1966348,19.3731129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1991174,19.376846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "El TAPANCO" ]]></name>
+        <description>Tienda-taller</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1992155,19.3753538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <description><![CDATA[<img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/tk6qm5r0ta76nfjgvvlc5e6a0o/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vY8vp4dZYsK5cl2XmjLjd9ivupHixBVVOfhhekpd50at6DZIbVS7pGeqnUcFISGSN8BMyK4zWHAeqL7eXWliKRaPlysDxDc-hWxlz9uT68WDnMxRlYzlAO6kYhVrGwnmZbJCa9MosSK6ag7FB0BtggBpmS2_pN_zjSQBSDDU2g04nJAKytp_RfQMJcLv2wrABA_?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/tk6qm5r0ta76nfjgvvlc5e6a0o/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vY8vp4dZYsK5cl2XmjLjd9ivupHixBVVOfhhekpd50at6DZIbVS7pGeqnUcFISGSN8BMyK4zWHAeqL7eXWliKRaPlysDxDc-hWxlz9uT68WDnMxRlYzlAO6kYhVrGwnmZbJCa9MosSK6ag7FB0BtggBpmS2_pN_zjSQBSDDU2g04nJAKytp_RfQMJcLv2wrABA_?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1038685,19.356068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "BiciCinco"]]></name>
+        <description><![CDATA[<img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ogh2ojpar5mci9rdinggnkilik/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaY1ZRaKPc2-DbRQ6x49uqJbVaqOjTsXQiMHoTryV67a9Nqx4UecdwxsEBUeeaKOx5oDsRV-9T5jIiudHTTXb97X0FIE5yYnAwnpAtu_MeSgdAOjBbvYbqulwq7uhmLy7TDzyZ9A8s7QhEGg3zX09D1qEdvXLyPuO18lgHKHzDgF3G-z5WTTJ1zm2EMfJiQ0zU?session=0&fife" height="200" width="auto" /><br><br>www.bicicinco.com <br>55814508]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ogh2ojpar5mci9rdinggnkilik/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaY1ZRaKPc2-DbRQ6x49uqJbVaqOjTsXQiMHoTryV67a9Nqx4UecdwxsEBUeeaKOx5oDsRV-9T5jIiudHTTXb97X0FIE5yYnAwnpAtu_MeSgdAOjBbvYbqulwq7uhmLy7TDzyZ9A8s7QhEGg3zX09D1qEdvXLyPuO18lgHKHzDgF3G-z5WTTJ1zm2EMfJiQ0zU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1114763,19.35686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicletas DRACKO</name>
+        <description><![CDATA[<img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ibv4b2dn9s3nvh5c9gqb35l0sg/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZCW_B0KIVDR7krybI45kpRywQ0cU4MuwvUckbjQnxNkv5BuA_fWV_CQ9QTJUUuXRAxc97HP2eiv54CNDJytobUWwhcLkoveK03Ut5_VzKf6YkrVGZIZG-OoV65NC5QQtUMUgi52aUOax5H2JKc2l7Bc5cKW-_-lJISx-QMCiqavy4H0sy0CAFZ2IiJS-krRD4?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ibv4b2dn9s3nvh5c9gqb35l0sg/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZCW_B0KIVDR7krybI45kpRywQ0cU4MuwvUckbjQnxNkv5BuA_fWV_CQ9QTJUUuXRAxc97HP2eiv54CNDJytobUWwhcLkoveK03Ut5_VzKf6YkrVGZIZG-OoV65NC5QQtUMUgi52aUOax5H2JKc2l7Bc5cKW-_-lJISx-QMCiqavy4H0sy0CAFZ2IiJS-krRD4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1692358,19.5317759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REPARACION DE BICICLETAS SERV. BUENDIA</name>
+        <description><![CDATA[<img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/krn9ik17cq1c2qrdsv4jl7ld5s/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZWibbaGcWpldncB5bqSzuk-TKVItv2yIBYut_M5HQzV4zRN2Ok3jwcU3pXnaRSLI6bgrM5qI6z6ULla4dAGg9UEqXrp-6B48X3X9yGPXfDczEGx5jWRPdJ7oxB8A3MlVuFR-C9cjayN3xI3bV451K7iER-3AfLr5AbjZSSDx38FHqKtaVSuAjjYvOdKyHblpI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/krn9ik17cq1c2qrdsv4jl7ld5s/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZWibbaGcWpldncB5bqSzuk-TKVItv2yIBYut_M5HQzV4zRN2Ok3jwcU3pXnaRSLI6bgrM5qI6z6ULla4dAGg9UEqXrp-6B48X3X9yGPXfDczEGx5jWRPdJ7oxB8A3MlVuFR-C9cjayN3xI3bV451K7iER-3AfLr5AbjZSSDx38FHqKtaVSuAjjYvOdKyHblpI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1293419,19.4086793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicicosis Bike Store</name>
+        <description>55 2505 5474</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0986776,19.4014084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicimanía</name>
+        <description><![CDATA[<img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/soo462veo7kbtcva2lsfntuubo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYZLZWFi-yoeCnyIqB_q4i4w4b-OBwsAsytS_YFaPSzFy76ERZRPt0Sgt5EOtdW4gOnwbnv97Jhcmr-USnMzvJvvHJUkll0qD_1CHBWKnlL2ZIwgGyCPK7gcz100XLTd-NWQYhurl6igTUauJhXvDm3kp7XpvqnP9q4ktlMS2-tDCD2I4uGhp9Yf2_1Dq6vuVU?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/soo462veo7kbtcva2lsfntuubo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYZLZWFi-yoeCnyIqB_q4i4w4b-OBwsAsytS_YFaPSzFy76ERZRPt0Sgt5EOtdW4gOnwbnv97Jhcmr-USnMzvJvvHJUkll0qD_1CHBWKnlL2ZIwgGyCPK7gcz100XLTd-NWQYhurl6igTUauJhXvDm3kp7XpvqnP9q4ktlMS2-tDCD2I4uGhp9Yf2_1Dq6vuVU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0843543,19.3938735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BICIMANIACOS BIKE STORE</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1548688,19.3951671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicimania Mixcoac</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1870032,19.3734654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GO BIKE AUTODROMO</name>
+        <description><![CDATA[<img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/3jt43mf4tg35folhcm5npcgtm4/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZDmfEj8LrEocdi9PX2Y8knsWxm3WJxEY_CWdkUI089RLqlgeKFLD2CsaqY-b8Cp2jnkuOZ2ih3-G31KHn4SV8F2wqoxaasn-9Y1ecjTvwgd3otBKUYSZaWEonf14txGxDKAVhU37NekQCViZcFKV8q__pWOsXKw0gZCJ2qwQysulpLEa0MK8X9iBRx9Pwc97M?session=0&fife" height="200" width="auto" /><br><br>55 3719 1707]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/3jt43mf4tg35folhcm5npcgtm4/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZDmfEj8LrEocdi9PX2Y8knsWxm3WJxEY_CWdkUI089RLqlgeKFLD2CsaqY-b8Cp2jnkuOZ2ih3-G31KHn4SV8F2wqoxaasn-9Y1ecjTvwgd3otBKUYSZaWEonf14txGxDKAVhU37NekQCViZcFKV8q__pWOsXKw0gZCJ2qwQysulpLEa0MK8X9iBRx9Pwc97M?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.081484,19.3940404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicicletas Ivca Bike</name>
+        <description><![CDATA[<img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/qbrvm1nc28roht8papps4erkek/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vain1bgiVwCI_wjT92y2cgBOjm_2wVkcTU7UIKRdlFazfEYrlBjhd4KQ1i4nwKR6pM6j9hUjx67ZF4K9biv_DskZFGkG-AlCfFmAMeu38iPRmW2OZse1217oSv_6XsAYCYOM7UmI0vDbCPsRS9Lo9x_i9M8kLggiuZ0agCsIrLWkkFguZEv65pAN_Hh4dhCfPk?session=0&fife" height="200" width="auto" /><br><br>55 6590 0736]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/qbrvm1nc28roht8papps4erkek/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vain1bgiVwCI_wjT92y2cgBOjm_2wVkcTU7UIKRdlFazfEYrlBjhd4KQ1i4nwKR6pM6j9hUjx67ZF4K9biv_DskZFGkG-AlCfFmAMeu38iPRmW2OZse1217oSv_6XsAYCYOM7UmI0vDbCPsRS9Lo9x_i9M8kLggiuZ0agCsIrLWkkFguZEv65pAN_Hh4dhCfPk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.078623,19.395316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "BICIMAX"]]></name>
+        <description><![CDATA[<img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/g080t08f6nqvp4664gid6s02no/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaZDOEeF6OgmzHvPYD-tR7kIH7SNcjAIRh6tDWjF711pWjoDPVtIR5fiEKEmVJazBScGDonImvb9QnpqUyL5nB5b-2ovioX-eyClIhw9eAeZzw0-SgMbHFENsJQrYTu4LlZeC7CIWtnTvt7_1faePTWq8xMlkt4ZJUQafkLdljL0spMPv0XRHRPjB1jVVBMCiI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/g080t08f6nqvp4664gid6s02no/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaZDOEeF6OgmzHvPYD-tR7kIH7SNcjAIRh6tDWjF711pWjoDPVtIR5fiEKEmVJazBScGDonImvb9QnpqUyL5nB5b-2ovioX-eyClIhw9eAeZzw0-SgMbHFENsJQrYTu4LlZeC7CIWtnTvt7_1faePTWq8xMlkt4ZJUQafkLdljL0spMPv0XRHRPjB1jVVBMCiI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0742819,19.397495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller-tienda </name>
+        <description>5518524545</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.075844,19.3712551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicicleteria 42</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1678522,19.4667102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pedal&Bomba]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1779513,19.4649982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Casa Garcia"]]></name>
+        <description><![CDATA[<img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/lhp9kdaqimidljtsk4luigrhoo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZYiIPtYrsN1KBlk6cFKpfBUssPLCkGxm1Zn70LDmQYYesU2X573Ovc24F1qTf9_ekERiGchzNK2CkhAR1ziC_6_J4Xo7FK4W52kJoJYfNjNFXQAtp5MyqY41fUOJ67jhsV3G_UXDRgSKsTC8j-4fc4ZUMk9iDm6NQStVPmMOehjwM17-B-8tqzF90ec67drTw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/lhp9kdaqimidljtsk4luigrhoo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZYiIPtYrsN1KBlk6cFKpfBUssPLCkGxm1Zn70LDmQYYesU2X573Ovc24F1qTf9_ekERiGchzNK2CkhAR1ziC_6_J4Xo7FK4W52kJoJYfNjNFXQAtp5MyqY41fUOJ67jhsV3G_UXDRgSKsTC8j-4fc4ZUMk9iDm6NQStVPmMOehjwM17-B-8tqzF90ec67drTw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1390223,19.4470716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Limite-X Tienda de Montaña"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1544654,19.4438021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de Bicicletas Orozco</name>
+        <description>Reparaciones mismo día. </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1691489,19.4143416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "El Pedal"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1879163,19.3582425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Agencia martínez"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.198213,19.445401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller  "Oviedo Bikes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.106711,19.428126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Galaxy Bikes México" ]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1882433,19.3688703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Entuercado2"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1548136,19.3897112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "SpeedBikes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1534205,19.375662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Entuercados"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.146075,19.3693295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "bici-mecánico"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1075083,19.3442734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bicicletas Speedy"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0383427,19.5475987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Spidy González"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.2218968,19.5140625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bicicletas y Refacciones el Niño"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1960049,19.5403192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1181268,19.4940535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Agencia NORMAN" ]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1152407,19.4596742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller ALBATROS</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1732003,19.329277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bikes Factor"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1814044,19.4511359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "Ciclometa"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1796428,19.4437527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Planeta Cleta Taller Tienda</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.165564,19.439526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bicicletas Casa Gloria"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1636449,19.3840286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller - tienda "Rueda Libre Crew"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1615285,19.4114874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Giant Store"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1639277,19.3906622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "FixieMX"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1653442,19.4225354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bici & Co"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.155886,19.3661374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "Alterbike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1659605,19.4111226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bici-mecánico</name>
+        <description>Abierto los domingos</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0448018,19.350305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Servi May"]]></name>
+        <description><![CDATA[<img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/8f7gogs1h5t7dbc111pgs71gc8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYNcuN4qms5DalKqs3gVTTjwDBxaE7YgjPWQMNXDewtm2YQMs9G2O-RdYZKtOAJGbTNTnTyb8V5PPi3XOspjrEi8xALoRV2IafkAE6VCzIPIbcDWXsT0Mh8FmU6J84LOJ55Wl5ttUnvazlBFv_nQcobWay-cqIW5YDRf_LuvmkYLAPNy4Qbl54xEQ37mxkFAKI?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/19er4d21ogtcuernrqiul46670/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaznF0V9F3aaH0qWCGiXo38mXS23KhtjpbjH4qdagMp5rLWUq1yiDLNdB11yJFYeubvsAzxrOhU2Zy2sw3FFFXcmwQiWqE80YHRN4xHnvOK4qyH_rkJHTZo7H9y0bM39TmOzJ2HxI8VX77wRLwAwlJKH00zjFPbBl89Rymhdx9IvGfH8kkmTx02D4uT6UJzzxo?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/8f7gogs1h5t7dbc111pgs71gc8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYNcuN4qms5DalKqs3gVTTjwDBxaE7YgjPWQMNXDewtm2YQMs9G2O-RdYZKtOAJGbTNTnTyb8V5PPi3XOspjrEi8xALoRV2IafkAE6VCzIPIbcDWXsT0Mh8FmU6J84LOJ55Wl5ttUnvazlBFv_nQcobWay-cqIW5YDRf_LuvmkYLAPNy4Qbl54xEQ37mxkFAKI?session=0&fife https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/19er4d21ogtcuernrqiul46670/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaznF0V9F3aaH0qWCGiXo38mXS23KhtjpbjH4qdagMp5rLWUq1yiDLNdB11yJFYeubvsAzxrOhU2Zy2sw3FFFXcmwQiWqE80YHRN4xHnvOK4qyH_rkJHTZo7H9y0bM39TmOzJ2HxI8VX77wRLwAwlJKH00zjFPbBl89Rymhdx9IvGfH8kkmTx02D4uT6UJzzxo?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0543786,19.3752033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller -tienda "Distrito Fijo Club de Ciclismo"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.159254,19.426713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bike Urban Reform"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1517397,19.432689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Be.Spoke Cyclery"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1563815,19.4280993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bici-Motos"]]></name>
+        <description>Abierto todos los días</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.007249,19.278872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-Tienda "Ciclo Partes"]]></name>
+        <description>Abierto todos los días </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0034601,19.2676069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller- tienda "Ciclo Partes Moreno"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1275214,19.4261345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Ciclo Partes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.97309,19.360926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "CICLO PARTES RADIAL"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0364484,19.5965275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Tulyehualco"]]></name>
+        <description><![CDATA[<img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/t2l6j431ghblfbii1u3rj12ne8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_van3HgHK3laYwLQk7RWYuI8SZqFTGY3wmwuSi99OTqO8k8WZQgHD2IwOgddqKv0qHXve6jdd6JmkbqpSEyidwD4dE_lZ5TEOo18LM396RtJKdfYpwlSt0b_POiExvTNRG5ZFvrH8UBqG4jB8TvlRwxSpQgvyI5UlcspOWh0-vUqleFkqItE_GpCXTp-dADhLvY?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/t2l6j431ghblfbii1u3rj12ne8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_van3HgHK3laYwLQk7RWYuI8SZqFTGY3wmwuSi99OTqO8k8WZQgHD2IwOgddqKv0qHXve6jdd6JmkbqpSEyidwD4dE_lZ5TEOo18LM396RtJKdfYpwlSt0b_POiExvTNRG5ZFvrH8UBqG4jB8TvlRwxSpQgvyI5UlcspOWh0-vUqleFkqItE_GpCXTp-dADhLvY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0097886,19.2596302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bici-mecánico</name>
+        <description><![CDATA[<img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0humu432r14i6qnqmc1pskpnn0/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZA_onV3gUfBuaSs3_Cwv-xGOQnmuPKKAWKdQ1Q5s8QXB2rV19aoH2agExHAkKkB5ougWafquKoN4FeHZTb0_BeyBuBD6GKZfRP2AKwoSnJCJiWvddq28aF8GPofYU6cmhThdji_mTSkMag_fnUvBkWM-Y4kMzi2KK3Afv2JHDMnSN1OM2nsYeigWFmm9hSLWI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0humu432r14i6qnqmc1pskpnn0/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZA_onV3gUfBuaSs3_Cwv-xGOQnmuPKKAWKdQ1Q5s8QXB2rV19aoH2agExHAkKkB5ougWafquKoN4FeHZTb0_BeyBuBD6GKZfRP2AKwoSnJCJiWvddq28aF8GPofYU6cmhThdji_mTSkMag_fnUvBkWM-Y4kMzi2KK3Afv2JHDMnSN1OM2nsYeigWFmm9hSLWI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1534209,19.3508311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller Bici-Mecánico </name>
+        <description><![CDATA[<img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/uu8leieunl7de51m0a6hib1juo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaAFuflNjTv13A_OZhYTUTOD_dYQN3kQGsFkEWi2PQT-vU2VF3M9YJyvP1LnQ8yQo2ce2FLw_pViDRIGLHk4uvoc6N6OICz8AnVyFNj6xqmVi2SP-rh-nEZsxHMtDLLW61gLwdyir0LsOgDx_dT0IgDy2aXoZXFgsC8VKz5_3Wfq3T42QaVsaEyVRAZdX4hIX0?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/uu8leieunl7de51m0a6hib1juo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaAFuflNjTv13A_OZhYTUTOD_dYQN3kQGsFkEWi2PQT-vU2VF3M9YJyvP1LnQ8yQo2ce2FLw_pViDRIGLHk4uvoc6N6OICz8AnVyFNj6xqmVi2SP-rh-nEZsxHMtDLLW61gLwdyir0LsOgDx_dT0IgDy2aXoZXFgsC8VKz5_3Wfq3T42QaVsaEyVRAZdX4hIX0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0673883,19.3030883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller  ''Tres Caballos'']]></name>
+        <description><![CDATA[<img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/f5cp55v2lrrg87b1kn7gm4vqq8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZQt13eNejKHg8V-zH2mCCCt9VKINOi3LGUJOMB86jtqaaQtfNLRvfWHz8SrVDXutytLX4W2x2e3TGz8b5anAYVdhzDQMcpkEckpvMR4ZbeFdgBENppzYoGxd3kFhRrRNtjDUvVg5shudnEBoXtO2yUtcF2uGLGyN9QyI8GdjJbZN1BHbHwp5lDTGlgOk6kjnA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/f5cp55v2lrrg87b1kn7gm4vqq8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZQt13eNejKHg8V-zH2mCCCt9VKINOi3LGUJOMB86jtqaaQtfNLRvfWHz8SrVDXutytLX4W2x2e3TGz8b5anAYVdhzDQMcpkEckpvMR4ZbeFdgBENppzYoGxd3kFhRrRNtjDUvVg5shudnEBoXtO2yUtcF2uGLGyN9QyI8GdjJbZN1BHbHwp5lDTGlgOk6kjnA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0665555,19.2955705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Tropikal Bikes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1301232,19.5007731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "Orbea Universidad"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1534195,19.3883487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "CHENTE’S BIKE"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.2300089,19.2808928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Origin Bike Lab"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1847519,19.3686394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bicitaller Commander"]]></name>
+        <description><![CDATA[<img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/53759irldtdnoe0amqatpt9g7c/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaUE1KFPc8Jk-15Qa-c22kmpKghUGeQW7AF4ZIPP28IvV7mFa-7LSXWlLlUe1TUJ2l96-Q8wEsjd4EWHBkLa-FIkRzu11BexDqIGWd9KyxrGdLMwqODzOsTa35HRUpngOKvBGc3cr_aQGEuHseTCLj-WbbyWt-Yy7eqLrngzzUgIVblUIKPjiHKU87AV0ZTbaWr?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/53759irldtdnoe0amqatpt9g7c/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaUE1KFPc8Jk-15Qa-c22kmpKghUGeQW7AF4ZIPP28IvV7mFa-7LSXWlLlUe1TUJ2l96-Q8wEsjd4EWHBkLa-FIkRzu11BexDqIGWd9KyxrGdLMwqODzOsTa35HRUpngOKvBGc3cr_aQGEuHseTCLj-WbbyWt-Yy7eqLrngzzUgIVblUIKPjiHKU87AV0ZTbaWr?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1208249,19.4509983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Linobike"]]></name>
+        <description><![CDATA[<img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/7okmdpf1kopjjq3v973907a1k8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbuxojkrbKYcMvv2FFP1gCrXQLzsBfv1Fb1f0YZnRocdZ1gzhh4YUvu8lKP3opQAILe4gwehB1Un5ndcJV-LOCvIvC3N67DEJaQzGYBRrcFq-vV5no8FHs-zGqIa2Sy1zWxno9maLhadnCcbwDUX5GJDUfHJCgoOh2eAi0ZkOUuFqF5U6gWEmiVFLYKGKh9Cro?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/7okmdpf1kopjjq3v973907a1k8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbuxojkrbKYcMvv2FFP1gCrXQLzsBfv1Fb1f0YZnRocdZ1gzhh4YUvu8lKP3opQAILe4gwehB1Un5ndcJV-LOCvIvC3N67DEJaQzGYBRrcFq-vV5no8FHs-zGqIa2Sy1zWxno9maLhadnCcbwDUX5GJDUfHJCgoOh2eAi0ZkOUuFqF5U6gWEmiVFLYKGKh9Cro?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0660479,19.2883145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "CICLO KING'S"]]></name>
+        <description><![CDATA[<img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/j1fji519qv8kmd7et6rmuabnhs/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYZRSc0CLmphYntfVI9b_tlikV4vrmm-KEYYeGY_gxsW1piehSPE93faZl6q0ADL8M66eK4hBEHT1e1ng3SGzS8L6QUhFQfncZZaHp10IUJPwQl0kYrhHg17akfIPa_3a06MDzyBUIjDmvud3q3yvLtIMUJab9zOh6MShpitichYrqWtnpXP64lLcf3gFD105c?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/j1fji519qv8kmd7et6rmuabnhs/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYZRSc0CLmphYntfVI9b_tlikV4vrmm-KEYYeGY_gxsW1piehSPE93faZl6q0ADL8M66eK4hBEHT1e1ng3SGzS8L6QUhFQfncZZaHp10IUJPwQl0kYrhHg17akfIPa_3a06MDzyBUIjDmvud3q3yvLtIMUJab9zOh6MShpitichYrqWtnpXP64lLcf3gFD105c?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1721644,19.3277816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "Centró Ciclistico Marroquíno:]]></name>
+        <description><![CDATA[<img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/q5s1a78er3gh23e0ittr1i9shk/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_va9v9wHv9KfTJ0HJyQJQqmGwRUEzlFMpORe_WytdkU98m_l-h8NMOPvgHBd8MT15l1oo46f0UyOjq3lHjelXIM2fAvCckXZ6G8kEnoM-ezYvMSGBWkyZIHdGRijS-Ujawh1JZVgIWGdniqftJtDdk0llttRwBDa0Yx9-Vfum3pIQjkg1ksjpRIwre0_exIh2hA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/q5s1a78er3gh23e0ittr1i9shk/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_va9v9wHv9KfTJ0HJyQJQqmGwRUEzlFMpORe_WytdkU98m_l-h8NMOPvgHBd8MT15l1oo46f0UyOjq3lHjelXIM2fAvCckXZ6G8kEnoM-ezYvMSGBWkyZIHdGRijS-Ujawh1JZVgIWGdniqftJtDdk0llttRwBDa0Yx9-Vfum3pIQjkg1ksjpRIwre0_exIh2hA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1154611,19.2667756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "bici-boutique-segura"]]></name>
+        <description><![CDATA[<img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/gmbrpld8v9vd5d4k036fvnjp2o/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbAKEAOyrtHvgaUAj-n3v87M8VFF9ky25m_hh2-fXvDBKfn0aoahr216ZGBkhrKUcAHCm-bUnUJZnlSR1FL5yAG36kEXePve2XxnlTBmlpcu02pnCBr-y4QanyGVvhNol-llckWfSG_SCKg7wmxlOjVfyOm6mr-g3KvnVhqrqMe3CW1h3F2hoodf0XeuV10fYU?session=0&fife" height="200" width="auto" /><br><br>lunes a viernes de 10:00am a 7:00pm y sábado de 10:00am a 5:00pm. servicio general, medio servicio, lavado de bicicleta, purgado de frenos hidráulicos, armado de ruedas, nivelado. Venta de refacciones y accesorios !]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/gmbrpld8v9vd5d4k036fvnjp2o/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbAKEAOyrtHvgaUAj-n3v87M8VFF9ky25m_hh2-fXvDBKfn0aoahr216ZGBkhrKUcAHCm-bUnUJZnlSR1FL5yAG36kEXePve2XxnlTBmlpcu02pnCBr-y4QanyGVvhNol-llckWfSG_SCKg7wmxlOjVfyOm6mr-g3KvnVhqrqMe3CW1h3F2hoodf0XeuV10fYU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1463287,19.3332564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "BICIOSOS WORKSHOP BIKESTORE"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1822956,19.387924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "People for Bikes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.2005517,19.4309552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-taller "TRISTORE"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1808306,19.4388838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "VIANSI Polanco"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1898228,19.4332045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Altavista Bike Shop"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1260779,19.4977536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "Euforia Capital Ciclista"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1280064,19.3584907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "El Rápido"]]></name>
+        <description><![CDATA[<img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/gnv1gaishv1f6ns5os8on0rji0/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaGwoUp8E6OZ5d5tPsBokGjt4EkyNCrYlDAkKBgUtK5MjKcPdGK-0v6TTYbR4ifIfF6-gzdDv0RRDTQ-X6WCdhTCgwqhv3gBbmP3jxWiBsAvNoFCmYcJaErrGi8orNItYItdzbG6ejOGCo3tjwfJYgb9Ong5hccECcLspaLw45Uch7yOqWyPtrbrbSZwiG5VCE?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/gnv1gaishv1f6ns5os8on0rji0/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaGwoUp8E6OZ5d5tPsBokGjt4EkyNCrYlDAkKBgUtK5MjKcPdGK-0v6TTYbR4ifIfF6-gzdDv0RRDTQ-X6WCdhTCgwqhv3gBbmP3jxWiBsAvNoFCmYcJaErrGi8orNItYItdzbG6ejOGCo3tjwfJYgb9Ong5hccECcLspaLw45Uch7yOqWyPtrbrbSZwiG5VCE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1611977,19.5208472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Mixcoac Bikes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1900001,19.3727288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "Ciclo Vida"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1254833,19.3158642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Bee Bike Club."]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1144846,19.3154747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Trans Vision Bike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1102775,19.2991585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Benotto"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1132813,19.3026094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Pibe"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.123031,19.335368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller De Bicicletas Del Centro</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1372135,19.4397107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "QUIQUICA"  SEDE CENTRO]]></name>
+        <description>Atención con previa cita</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1323417,19.4406014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "People For Bikes Oasis Coyoacan"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1795063,19.3463739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "La Meta" ]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1315661,19.4605563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "CADENA DE ORO"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1831996,19.3982738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Love Bikes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1739625,19.3773433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-taller "Rock & Ruedas"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1902769,19.4117324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Giant Store Ajusco"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.216027,19.293046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Cabaña Giant" ]]></name>
+        <description>LUGAR SIN CONFIRMAR</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.245372,19.253714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "La Bicicleteria Boutique"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1281735,19.317679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tienda-Taller - EL PEDAL - Reparación de Bicicletas Refacciones y Accesorios</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.139632,19.4912309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "benotto"]]></name>
+        <description><![CDATA[<img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/366eo7jntopp7u3lvdko5pmq9g/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vY8SqsYkD_UVEGONxF-y5xX2HTxaDdDrvFCiO_2TlVCmJIlIbQSS3dzsSPYAj1moXoSw3JIqiLapU24P2qrc91PGyR3Sc1JERNWJEWrAW452zfosprIXNBWwMxLaV6j9ZdOsJaslynT1m1S_u7Q32PG7Hi2D7Oa0tVO4Wdbs77TpMvh33kR6_BUY14CcgE51xs?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/366eo7jntopp7u3lvdko5pmq9g/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vY8SqsYkD_UVEGONxF-y5xX2HTxaDdDrvFCiO_2TlVCmJIlIbQSS3dzsSPYAj1moXoSw3JIqiLapU24P2qrc91PGyR3Sc1JERNWJEWrAW452zfosprIXNBWwMxLaV6j9ZdOsJaslynT1m1S_u7Q32PG7Hi2D7Oa0tVO4Wdbs77TpMvh33kR6_BUY14CcgE51xs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1345131,19.3954983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller  "En la Roma Rompepistas"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1604684,19.4105797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Giant Store Coyoacán"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1727219,19.3599812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Velasco"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1442544,19.3361095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Benotto"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1462476,19.3344391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Viansi"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1487409,19.3416244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Cycling FABBRO"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1583393,19.3958598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Harden Hub"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.2082864,19.4328925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Benotto"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1654325,19.4130605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Bicicletas BH"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1696743,19.410361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "Bicycle Repair Shop"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.181931,19.4056204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "Bamboocycles"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1851375,19.4071065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "IBIKE" ]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1032911,19.3966852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "BICICLETA CICLO TECNICA"]]></name>
+        <description><![CDATA[<img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/n4h99kalbhefh1lq8dp11cef1g/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYFnZHjvKPKdql_ay4oQcErh7RehIE0QVXJZ_6PDWD281WC00yeVWPvfAz2YCKLscgJBHBkAN_NgkBIgJ6hayvV71gOmqdJAqbfArZPYwTDXSbCYboE1JzX8Gu12zEBSaq48GkjPV94WCAnhfg5CD_qag72ley-plK-cFU5BWAEHuKFx-xnsLI7HGVBpfzTJgk?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/n4h99kalbhefh1lq8dp11cef1g/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYFnZHjvKPKdql_ay4oQcErh7RehIE0QVXJZ_6PDWD281WC00yeVWPvfAz2YCKLscgJBHBkAN_NgkBIgJ6hayvV71gOmqdJAqbfArZPYwTDXSbCYboE1JzX8Gu12zEBSaq48GkjPV94WCAnhfg5CD_qag72ley-plK-cFU5BWAEHuKFx-xnsLI7HGVBpfzTJgk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1675891,19.3448742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Noohwi Cycling Hub"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1521231,19.3958903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Del Diablo Bicicletas"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1502527,19.3984293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Casa Aguilar"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.2034138,19.4894236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller  "Jireh"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.2167857,19.4889599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bicycle Vision Store"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1883885,19.4771122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "BIKES WORKSHOP"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1813399,19.4636694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Roll Bikes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.191099,19.480992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bicicletas Cast"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1826847,19.4850362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bici Servicios LEO"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1842839,19.455931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Jesús Ride A Bike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.164382,19.4351586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller De bicicletas </name>
+        <description><![CDATA[<img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ho0uj1sr09sscln94k74fkarb8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vajuEOuonVVth-vCIGJPppkTp8uFg3Gj-e-x2XnC0pVb-dy95Lh342d5eeGN2URcusJAezoEM7Sqq8708bsKMeWtqK8Za20Ykwzpqb1p6K7MlmVkn1_1emlXlEK1RzcHaTUdcSyiu_RLscvOLTXJAm6m7BOu8pCqdJVl6KZftlHgXTqsmxwzpUIEIub2CJaUxg?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ho0uj1sr09sscln94k74fkarb8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vajuEOuonVVth-vCIGJPppkTp8uFg3Gj-e-x2XnC0pVb-dy95Lh342d5eeGN2URcusJAezoEM7Sqq8708bsKMeWtqK8Za20Ykwzpqb1p6K7MlmVkn1_1emlXlEK1RzcHaTUdcSyiu_RLscvOLTXJAm6m7BOu8pCqdJVl6KZftlHgXTqsmxwzpUIEIub2CJaUxg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1318734,19.2857216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>taller -tienda Bikes live lives rolling</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1634537,19.4112921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller BICICLETAS TONINO</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1608128,19.4103974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller " pedal y fibra"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.09783,19.42666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bici Gato"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1724593,19.3866222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Enbiciados Bike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.167654,19.385584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "La rila feliz" ]]></name>
+        <description><![CDATA[<img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/nphg198289tmrldrnfuabpk6nk/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYuMQkDIwZV5KGx0ITTMvgjYkCqQrx1muKbB98rbJt6BT8Xgz1xRnh5cjUEvATqDP-gSiN7JZG3E_n6vXIosordYQ4ewprsFp2rWXWi6L5vyqKR0-aktYADlsQbQxdpuOdSN6kAix7GrPiHQyn7xLPN25-YfPPqAOeHjCkRwT6Tadp-UgLnDt4sJ9Bcr7TK5Vc?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/nphg198289tmrldrnfuabpk6nk/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYuMQkDIwZV5KGx0ITTMvgjYkCqQrx1muKbB98rbJt6BT8Xgz1xRnh5cjUEvATqDP-gSiN7JZG3E_n6vXIosordYQ4ewprsFp2rWXWi6L5vyqKR0-aktYADlsQbQxdpuOdSN6kAix7GrPiHQyn7xLPN25-YfPPqAOeHjCkRwT6Tadp-UgLnDt4sJ9Bcr7TK5Vc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1024221,19.4276291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-taller  "Universum Bike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.14776,19.3882662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Olimpic Bike's Performance"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1099827,19.3644853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Chincheta"]]></name>
+        <description><![CDATA[<img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/48cne3rejrsif29np8tf427o94/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vblQmPHxKSzrWHpt2t2W5XiogEz_spI11jf0gwAi3O-Kx0uEeSnyqi3tXFW5WevKJgA-0n8LEvYS2xd1MHhru25Tyzf3TKnSRGD3_4_nHxAgoyvX4PLcgGrYgJm0o1Gx09n6WtQ6WJclgL4pT7LG46N9wu-TF7XNPL5b-NmnAopqMRmnlviDzWf9lWSGz-Q8u8?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/48cne3rejrsif29np8tf427o94/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vblQmPHxKSzrWHpt2t2W5XiogEz_spI11jf0gwAi3O-Kx0uEeSnyqi3tXFW5WevKJgA-0n8LEvYS2xd1MHhru25Tyzf3TKnSRGD3_4_nHxAgoyvX4PLcgGrYgJm0o1Gx09n6WtQ6WJclgL4pT7LG46N9wu-TF7XNPL5b-NmnAopqMRmnlviDzWf9lWSGz-Q8u8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1010731,19.3632728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda-café "Dr. Cycle"]]></name>
+        <description><![CDATA[@cycle_dr<br>tel: 2583-6727<br>L-V 17-22 hrs.<br>S 10-18 hrs.]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1599506,19.4400121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "La Olímpica 1958"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1647846,19.2843069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller Bici-mecánico </name>
+        <description><![CDATA[<img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/k8lqua6gg92k4ct9618h8pfc5k/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZqSYwjtGzXmf-M90O3c3X6XA7A2AG1xlf5L9C8mPizqEjWx71lg_0WbnPjf6sgCnFYCKr0bdxX7pABHxV2Pz22Kk0MNLLGmltAQOOMSZ8i8YD_qd-watEKezMvi3UC8_mPFLQIn-FKW7TPYD3HPiwY0k2eRi-QrpAzkCPKRUxCBRsn0uP9Zq1apkTiWIDL16w?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/k8lqua6gg92k4ct9618h8pfc5k/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZqSYwjtGzXmf-M90O3c3X6XA7A2AG1xlf5L9C8mPizqEjWx71lg_0WbnPjf6sgCnFYCKr0bdxX7pABHxV2Pz22Kk0MNLLGmltAQOOMSZ8i8YD_qd-watEKezMvi3UC8_mPFLQIn-FKW7TPYD3HPiwY0k2eRi-QrpAzkCPKRUxCBRsn0uP9Zq1apkTiWIDL16w?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0295618,19.3908755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Beny"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1746977,19.4423936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "La Joya"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0562775,19.6080033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "San Juan"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0455226,19.6014188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller " EL BALIN"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1054398,19.4621403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda  "ToolBike"]]></name>
+        <description><![CDATA[Dirección. Plan de Guadalupe Victoria 5, Granjas Lomas de Guadalupe, 54744 Cuautitlán Izcalli, Méx.<br><br>5559024260]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.2083779,19.6213258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller comunitario "Enchulame La Bici 2"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1939295,19.44924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <description><![CDATA[<img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/31dfnfmphvcl2qokaa4fmfadp4/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbrzMxuSQ2kRWn73p56Ue_FGgj5CpsiiNISE4u8e-alanZywcGTbmHAOb3gQmznHGRotGsmsuBzbXHhvLhFJi6nswyqGEmZ72oTtmBcfHNJMznPh04NmTVQTidF4jJhfebtV-_zn0ZmzcH3CLCyPBr2sB0Bs5ALHE-9s1FtmkDTIGHY5tW8saZSAmDtVXcJ6jk?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/31dfnfmphvcl2qokaa4fmfadp4/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbrzMxuSQ2kRWn73p56Ue_FGgj5CpsiiNISE4u8e-alanZywcGTbmHAOb3gQmznHGRotGsmsuBzbXHhvLhFJi6nswyqGEmZ72oTtmBcfHNJMznPh04NmTVQTidF4jJhfebtV-_zn0ZmzcH3CLCyPBr2sB0Bs5ALHE-9s1FtmkDTIGHY5tW8saZSAmDtVXcJ6jk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0564116,19.3931836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Emotion Bikes"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1762458,19.3463683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Ciclópolis Cuajimalpa"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.2946954,19.3520244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Alex" ]]></name>
+        <description><![CDATA[<img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/g8ngmvdhncustdtq4g9n66nvfg/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYX9q_bFiDLuwyP3m_JJaP9jgJWYt6DTnejdyhiW6KJ-w16L2uE5f538d2R9xRbtFw055qGg23EE_u4pJk7x09Qz1FGWVqsiocOg1-FHYZrMzPkZ3a5qhAKP5yczX67cbIkTxRRy0nxzXuD_peoHTnOPieQZyx0MRme-SlDrc1F7HlRXhREhUlG3hWITcXpmzI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/g8ngmvdhncustdtq4g9n66nvfg/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYX9q_bFiDLuwyP3m_JJaP9jgJWYt6DTnejdyhiW6KJ-w16L2uE5f538d2R9xRbtFw055qGg23EE_u4pJk7x09Qz1FGWVqsiocOg1-FHYZrMzPkZ3a5qhAKP5yczX67cbIkTxRRy0nxzXuD_peoHTnOPieQZyx0MRme-SlDrc1F7HlRXhREhUlG3hWITcXpmzI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1757267,19.4637167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller  "Alex"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.046576,19.292792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bicicletas Alex"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.8927466,19.5645787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Astorgabike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.149789,19.400734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tienda-Taller "Rodbike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.066051,19.46666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Agencia De Bicicletas Hazel Y Spider"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1167815,19.4658056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "CHINCHETA" ]]></name>
+        <description><![CDATA[<img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/c5ggau4b78rkh982902ts5reo4/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYg_cqaVKO_xCGJcFhGqNNBzen3pyMgNsh191OVOc7Yv5OEMF7R41MWntIh3Y5kZUFrmAoISxnnz3EYAqOuxMMUNG2EGovNfVX2_KgsfoCe-jsYqR5w8XSs6qqKZcQ4LHMcl5d1HUsMMV1nS3huJ_X37JNv1KO--HkPe9ElBF5XkkaB8g2q7gkihP_apBnUpqU?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/c5ggau4b78rkh982902ts5reo4/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYg_cqaVKO_xCGJcFhGqNNBzen3pyMgNsh191OVOc7Yv5OEMF7R41MWntIh3Y5kZUFrmAoISxnnz3EYAqOuxMMUNG2EGovNfVX2_KgsfoCe-jsYqR5w8XSs6qqKZcQ4LHMcl5d1HUsMMV1nS3huJ_X37JNv1KO--HkPe9ElBF5XkkaB8g2q7gkihP_apBnUpqU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0767835,19.3549479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller-tienda "LBU Bike Store"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.18231,19.3902329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller -tienda "La Bici Urbana"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1565773,19.4383412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Motos y Bicis" ]]></name>
+        <description><![CDATA[<img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/rkruf0r5e8t4e28dac1tj3ojic/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYZDd0DpAFkt5csNpzc0Chtp05fZ7UhPOMJo2-sLa2ejtMqRaYxGgSSE0f5vJ9ZIfRNKi9rY2kSbuB1Ku4hAdmspxtDSfczXqoSEhK3s9F8YWAsiZT83Es7p-KW1vlng1RLKJcL8HDE4v7PWrGA1T7F_-4zzoITZYiWxaX6WKKmkvesg3887l8Wn5B9RMtlFl8?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/rkruf0r5e8t4e28dac1tj3ojic/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYZDd0DpAFkt5csNpzc0Chtp05fZ7UhPOMJo2-sLa2ejtMqRaYxGgSSE0f5vJ9ZIfRNKi9rY2kSbuB1Ku4hAdmspxtDSfczXqoSEhK3s9F8YWAsiZT83Es7p-KW1vlng1RLKJcL8HDE4v7PWrGA1T7F_-4zzoITZYiWxaX6WKKmkvesg3887l8Wn5B9RMtlFl8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1291682,19.3838061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller " Bicicletas Servicio Chimal"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0381844,19.4060269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Metalbikess"]]></name>
+        <description><![CDATA[Lunes martes jueves viernes 11am a 7 pm<br>Miércoles de 4 pm a 7 pm<br> sábado 11 AM a 5 pm<br>Domingo 11 AM a 3 pm<br>5567406047]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0178679,19.3601039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bici mecánico</name>
+        <description><![CDATA[<img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/9inpheri946b2mk2bfiishfg6k/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vb6KDfou2vCdh8ALhnV1gHl4m_iP4uObTX2xL9Bew5Ms-gb6L_Lwk_EA5DvyZc0Jm6iwt-1SKStwBHKe0Q6jBD-o9lsGA2ye7BIGnuBIPxv_vf0b1AVl6w3WPn_wdPRV_ix73yNxSdyhge53va7J4bJZ5Fe_DXNO26aV8evfOaQgWXst6zGlNATSJTi7rnSLHw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/9inpheri946b2mk2bfiishfg6k/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vb6KDfou2vCdh8ALhnV1gHl4m_iP4uObTX2xL9Bew5Ms-gb6L_Lwk_EA5DvyZc0Jm6iwt-1SKStwBHKe0Q6jBD-o9lsGA2ye7BIGnuBIPxv_vf0b1AVl6w3WPn_wdPRV_ix73yNxSdyhge53va7J4bJZ5Fe_DXNO26aV8evfOaQgWXst6zGlNATSJTi7rnSLHw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.069413,19.4888368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller bici mecánico</name>
+        <description><![CDATA[<img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/vfstu74lbi90gn9irlp6rc39js/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYTY2SGCjehrZ8-aF7TQYJBGwHdehb_j5n7UJry-a3vsGApkgMrpplWH8Xd45jPl-HALAf6lvZ9Ow9d0WOTreSV8KqHwt5zya94L4TqXOMwYUtbG_NtOLIvX1U_eH8rp1G6GL5I6FEMvydUG8nkHzu0aGYBC8JV7vPBqNZX7RPP76xpuBbqpNR8h7Vg7ZiGBL4?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/vfstu74lbi90gn9irlp6rc39js/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYTY2SGCjehrZ8-aF7TQYJBGwHdehb_j5n7UJry-a3vsGApkgMrpplWH8Xd45jPl-HALAf6lvZ9Ow9d0WOTreSV8KqHwt5zya94L4TqXOMwYUtbG_NtOLIvX1U_eH8rp1G6GL5I6FEMvydUG8nkHzu0aGYBC8JV7vPBqNZX7RPP76xpuBbqpNR8h7Vg7ZiGBL4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0340555555555,19.5116111111111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Bicicletas y motos"]]></name>
+        <description><![CDATA[<img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/p35o0t16osujr3njq08u1529c8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYMw62wwteAo1weAojR3hM_2Z_UrTlIKmsHqnbVDkJDgEOIxrW_XnO3CgxkAlPTkXyWA3hNWmlRq1okLMoR8VK4-zqQq7NpbcqiScgOCJnK0GfKuGz3C0-TBNH5_cFjdDq7ElmH6pFT8Pt4VSSCvKjwbqk8aCaSb0cVoadcTnm50zUsTspAPj-Yd12Bj1_GF0A?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/p35o0t16osujr3njq08u1529c8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYMw62wwteAo1weAojR3hM_2Z_UrTlIKmsHqnbVDkJDgEOIxrW_XnO3CgxkAlPTkXyWA3hNWmlRq1okLMoR8VK4-zqQq7NpbcqiScgOCJnK0GfKuGz3C0-TBNH5_cFjdDq7ElmH6pFT8Pt4VSSCvKjwbqk8aCaSb0cVoadcTnm50zUsTspAPj-Yd12Bj1_GF0A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0230676,19.5072083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller"Bicicletas Torres"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0249968,19.5106574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <description><![CDATA[<img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/g82u15n0v3q05dckgva9ts4ll0/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZAmyE4zpe7bJZQc22y7hop8w7kVHxZJMY-LOe8ciQnPh_QMBkGMdUU5gmwmCKmPt7-xusXHYVwnHu9brDcdMkW1wrGxVkLknFUvq6SJSG6Pfm2tF5LNaPlzyiIIRfsIpfdsKjaAij8ilFm1W83eiNhq-6LL1kzdSKrSdhPKxOpDaQ2jDLHzn7ZGWfuAVnWj1o?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/g82u15n0v3q05dckgva9ts4ll0/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZAmyE4zpe7bJZQc22y7hop8w7kVHxZJMY-LOe8ciQnPh_QMBkGMdUU5gmwmCKmPt7-xusXHYVwnHu9brDcdMkW1wrGxVkLknFUvq6SJSG6Pfm2tF5LNaPlzyiIIRfsIpfdsKjaAij8ilFm1W83eiNhq-6LL1kzdSKrSdhPKxOpDaQ2jDLHzn7ZGWfuAVnWj1o?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0195408,19.5321453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Tacho's Bike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0213288,19.5370142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "bicicletas izcalli"]]></name>
+        <description><![CDATA[<img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/lhbni151188q6i4pihndos8224/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZn2PSWUk3zlM4omjcyFhFhnjctBs85-mMwFDJNpvSdv2I45Yfmv8UYpySqdsgBb0TEsatWCHjNMUje2z5DIMQJD2PIbiR9Tk5TWPpdeyBkP9kM9RqvB4tfk3afu6cP0jFOuEpgLH29Hj0TZa0tyKP9EoPmIrjIB7-bNSgVRtQB5KA3vON8QZcb9T6snIVNmBw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/lhbni151188q6i4pihndos8224/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZn2PSWUk3zlM4omjcyFhFhnjctBs85-mMwFDJNpvSdv2I45Yfmv8UYpySqdsgBb0TEsatWCHjNMUje2z5DIMQJD2PIbiR9Tk5TWPpdeyBkP9kM9RqvB4tfk3afu6cP0jFOuEpgLH29Hj0TZa0tyKP9EoPmIrjIB7-bNSgVRtQB5KA3vON8QZcb9T6snIVNmBw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.024039,19.499535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller  "El Güero"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0286871,19.5022617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller  "bicicletas y accesorios love two wheels"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1388485,19.441355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller " Bicis La Palmita"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1280907,19.4263195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Dr's. Bielas"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1948681,19.4471206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller y tienda "BIKE PITS"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.290065,19.3588895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "El Baikas" ]]></name>
+        <description><![CDATA[<img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/nj9j5aqf46u2r9lq88mn09cs10/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbJzUFLG1ITCEb3UnUFwEmLKaZZwj8nzHk6oxTZIJLDyY7Ovb-MMDhKbcKWwPlj7UQzQTEX9XwvcyS0oC7yj4i9-yFnwLLHwv9QT0gImBuOPXE5xUoeXzhly2luCZTNMET4jdTUZo5yV6z4zTS4W1xLiiIXHOyDTkUxMqz6qNNfmDoNHmD0K42jG6vL8GVlTyo?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/nj9j5aqf46u2r9lq88mn09cs10/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbJzUFLG1ITCEb3UnUFwEmLKaZZwj8nzHk6oxTZIJLDyY7Ovb-MMDhKbcKWwPlj7UQzQTEX9XwvcyS0oC7yj4i9-yFnwLLHwv9QT0gImBuOPXE5xUoeXzhly2luCZTNMET4jdTUZo5yV6z4zTS4W1xLiiIXHOyDTkUxMqz6qNNfmDoNHmD0K42jG6vL8GVlTyo?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0817912,19.3319052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <description><![CDATA[<img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/c93goiasqa99rssju0n5virsqg/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZ36p6mVN1KiCVZL2IjWKni5zBcsAKNWhpezSpWNMB_9i3GvzT2xEwCFbcAS5TpdClWfBdGndHWJLlSl2QET5urVuV6sczuOp5wQr6KlVaRMCbp06FatKB5C_IU6TtrFRne3s3oo5fwUZGMNJakg7oUbLdXXPQW5rGUaN6i9xtHjCd-V-PRFtwupZs0muZXUQZn?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/c93goiasqa99rssju0n5virsqg/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZ36p6mVN1KiCVZL2IjWKni5zBcsAKNWhpezSpWNMB_9i3GvzT2xEwCFbcAS5TpdClWfBdGndHWJLlSl2QET5urVuV6sczuOp5wQr6KlVaRMCbp06FatKB5C_IU6TtrFRne3s3oo5fwUZGMNJakg7oUbLdXXPQW5rGUaN6i9xtHjCd-V-PRFtwupZs0muZXUQZn?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1228353,19.3781591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Locura Urbana"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1033594,19.3871571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller de Bicicletas 'Golden Ratio Café de Especialidad"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1635005,19.394127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller de bicicletas "Aguilar EL MOLES"]]></name>
+        <description><![CDATA[<img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/j0jc87ie1s1ai0fo4qf3lfulqo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaTjNDs2u-Ccbu7xru-tUFg9vCFFXA5ahSulzRAeugNO-jY45-doeg-rSKALPEE_lw3KTW6I_NkDTLE_0_UftEdkdYhGULew_C6qJu2ZV0Y7wWQBDZ-s4y5NDqUHvHUGimkXiY41P79SrRePtesA8GKsH9LfLTtx6W5Zsz3P_LW6SFYxNSUVVcocldC4_dP8EU?session=0&fife" height="200" width="auto" /><br><br>Mecánico en vuelta México del rock racing<br>5513667873]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/j0jc87ie1s1ai0fo4qf3lfulqo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaTjNDs2u-Ccbu7xru-tUFg9vCFFXA5ahSulzRAeugNO-jY45-doeg-rSKALPEE_lw3KTW6I_NkDTLE_0_UftEdkdYhGULew_C6qJu2ZV0Y7wWQBDZ-s4y5NDqUHvHUGimkXiY41P79SrRePtesA8GKsH9LfLTtx6W5Zsz3P_LW6SFYxNSUVVcocldC4_dP8EU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0515928,19.2034784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas </name>
+        <description><![CDATA[<img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/9ot33dovom3gg5qd76vemih3u8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYhZ6Uw2ffVgekYj-A-x2-ZRRLGprzsY3smD6TFBFjpTBJ_HLYKOGwwosHP-ekQ5-sjLBbxoJBcTEAGj0g4QDqvwOEofeq2HNekG5J7D20WFcQhu0lqCmHaLg5TtclV8i8OWtaGpVGZROWPv6LKhdhrG4tzGJjdVmPPKRuyERiQ2rekLYIS_v3wT4pRPBoV5so?session=0&fife" height="200" width="auto" /><br><br>Sin mas datos]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/9ot33dovom3gg5qd76vemih3u8/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYhZ6Uw2ffVgekYj-A-x2-ZRRLGprzsY3smD6TFBFjpTBJ_HLYKOGwwosHP-ekQ5-sjLBbxoJBcTEAGj0g4QDqvwOEofeq2HNekG5J7D20WFcQhu0lqCmHaLg5TtclV8i8OWtaGpVGZROWPv6LKhdhrG4tzGJjdVmPPKRuyERiQ2rekLYIS_v3wT4pRPBoV5so?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1611818,19.3504633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller de bicicletas "CHAVA" ]]></name>
+        <description><![CDATA[<img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/1qf0togejjtv0nsclrblmoh128/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbKz-YPqJYTY3Mwtc-FC9_1yjJMISkMPOkPjkUrlL6kT7HM8tmerN6x5OlXcz5gZyVp9UWbaq-zYqtCATiun08XFGf_tfQw2XuIP9W4AsAPAadfB8IGyvMDC4adtU5ddkJvXtkULJcMTNWSPdUBGTXtOPhmVB0-9POQG27miWdbtFx3Iqav5EFSgnSSEvUdxUI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/1qf0togejjtv0nsclrblmoh128/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vbKz-YPqJYTY3Mwtc-FC9_1yjJMISkMPOkPjkUrlL6kT7HM8tmerN6x5OlXcz5gZyVp9UWbaq-zYqtCATiun08XFGf_tfQw2XuIP9W4AsAPAadfB8IGyvMDC4adtU5ddkJvXtkULJcMTNWSPdUBGTXtOPhmVB0-9POQG27miWdbtFx3Iqav5EFSgnSSEvUdxUI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2307033,19.5215842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas </name>
+        <description><![CDATA[<img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/hj8isr06git39bnknlt9v13q6g/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZJ56TmkJNhWVel5Ukam1vhGVz9Nvp4de1-vglZ7QkPXXxhl69gHxDPlDwHd7APTRGOSzJuyLf_fIZmxqCEoKyQCf1xQSGvQv5QaAs3CL79hd9TBI__a-k9LaiHMtTOY8SQ9mzIJFUw2hCkveKnWGLP4MM3njAVtcneXqYCdX3eF8ykVjNhHk7bROP7zIUR3v4?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/hj8isr06git39bnknlt9v13q6g/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZJ56TmkJNhWVel5Ukam1vhGVz9Nvp4de1-vglZ7QkPXXxhl69gHxDPlDwHd7APTRGOSzJuyLf_fIZmxqCEoKyQCf1xQSGvQv5QaAs3CL79hd9TBI__a-k9LaiHMtTOY8SQ9mzIJFUw2hCkveKnWGLP4MM3njAVtcneXqYCdX3eF8ykVjNhHk7bROP7zIUR3v4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1826156,19.4496822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORAY bike</name>
+        <description><![CDATA[BICLATÚRS & RENTALS<br>Biketours y Renta de bicis todos los días en Av. Reforma 24 Centro CDMX<br>63943259 go@poray.bike]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1108124,19.4190033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["Dino Bickla" Taller de bicicletas]]></name>
+        <description><![CDATA[L-V 9-18 hrs<br>S 9-15 hrs<br>TEL 5537274495 - 5537849321]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1669759,19.4464109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["De la Riva Bike" Taller de bicicletas]]></name>
+        <description><![CDATA[L-V 9-18 hrs.<br>S 9-15 hrs. <br>TEL: 5536733936]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0468677,19.5988441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["VnBC Bicis" Taller]]></name>
+        <description><![CDATA[L 10-19 hrs.<br>M-S 10 a 19 hrs.<br>D  10-17 hrs.<br>Tel: +525562714052]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1600643,19.4067843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["BlueRed Bikes" tienda taller]]></name>
+        <description><![CDATA[L-S 10 a 18 hrs <br>55 5160 1370]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1431426,19.3416935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicicletas LoULe Tienda-taller</name>
+        <description><![CDATA[L-S 10 a 19 hrs<br>+525526773245]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1480151,19.3791108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["BOUTIQUE RODANDO FACIL"]]></name>
+        <description><![CDATA[Tienda taller<br>L-v 9 a 18:30 hrs<br>S 24 hrs. <br>+525554338321]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1243115,19.3703954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Movimiento sobre ruedas"]]></name>
+        <description><![CDATA[<img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/qvbjeugequ5hkdr4c0rpm3m6vo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZsqb6MHxv2EiVXFYV3kDc3HRkV1hOsnKGnJtMa30ep6XFW5IIb7omE4lbbSqKXb5H9StdZfMDEaWWFKoYF_aYNnyVTgUMPW69g99SehZh7vslY9evoH2RjSQm7djUI6miTWMq_xXQiXOdqPRC1mW9XuEIn7M1guMFYHe1mLJjpgSJ9sVZEhO3VsXAsbaKSKTs?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/qvbjeugequ5hkdr4c0rpm3m6vo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vZsqb6MHxv2EiVXFYV3kDc3HRkV1hOsnKGnJtMa30ep6XFW5IIb7omE4lbbSqKXb5H9StdZfMDEaWWFKoYF_aYNnyVTgUMPW69g99SehZh7vslY9evoH2RjSQm7djUI6miTWMq_xXQiXOdqPRC1mW9XuEIn7M1guMFYHe1mLJjpgSJ9sVZEhO3VsXAsbaKSKTs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1621198,19.4384892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller tienda de bicicletas "Accent Cycling"]]></name>
+        <description>@accentcycling</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1746562,19.4122444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "The Bear's bike"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1479255,19.4065045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garage BAI-k Taller</name>
+        <description><![CDATA[TALLER DE BICICLETAS & SERVICIO ESPECIALIZADO A TODAS LAS DISCIPLINAS.<br>RUTA, TRIATLÓN, MONTAÑA, URBANAS, CX.<br>L-V 10:30-18 Hrs<br>55 6078 0433]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1154369,19.4190568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VERABIKE Taller y tienda</name>
+        <description><![CDATA[<img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/tu88ou55of3u1lqntegpsmk3m4/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaJ9L3dAjnmMM9P9siL6SJbMD3pMcFdBY7Rlc7cPNmaGs2vuKHbo9vUI-DFWHMU1koAFZuQF8oEQkq4qD8XEoPao1sfkDtr9Q3Hc0-8iIR8nAcha25YNGbmCXI5lTAN0JIL-Hv_TG0qPnWs2tSaVKdvtx7h8_dmm0luFOFGoJQSpN3pW0w7PAySdRItwkEFMIc?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/tu88ou55of3u1lqntegpsmk3m4/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vaJ9L3dAjnmMM9P9siL6SJbMD3pMcFdBY7Rlc7cPNmaGs2vuKHbo9vUI-DFWHMU1koAFZuQF8oEQkq4qD8XEoPao1sfkDtr9Q3Hc0-8iIR8nAcha25YNGbmCXI5lTAN0JIL-Hv_TG0qPnWs2tSaVKdvtx7h8_dmm0luFOFGoJQSpN3pW0w7PAySdRItwkEFMIc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2449623,19.447294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TALLER DE BICICLETAS</name>
+        <description><![CDATA[<img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/86jqmptc8hemgp6tr7gq6k9kdo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYU4cDmTeifa8PfF6Im55KogdFP6ReE69mxpapD3O6aQvRSub_YVZzdUz0xVPbie2Lk-SZq0cUz2uc2oK4kBuQWM9Ws_kqyUoTa97eYKJTrAd3cz-j9E07H6VZA2T0PWWCUGWat5pUDeSDqMmjwhZzK54W-NsOScv__AtPJKhxGyxzXjNiln2ZwUm4KNkdJ708?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/86jqmptc8hemgp6tr7gq6k9kdo/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYU4cDmTeifa8PfF6Im55KogdFP6ReE69mxpapD3O6aQvRSub_YVZzdUz0xVPbie2Lk-SZq0cUz2uc2oK4kBuQWM9Ws_kqyUoTa97eYKJTrAd3cz-j9E07H6VZA2T0PWWCUGWat5pUDeSDqMmjwhZzK54W-NsOScv__AtPJKhxGyxzXjNiln2ZwUm4KNkdJ708?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2439199,19.4481864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reparación De Bicicletas</name>
+        <description><![CDATA[<img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/tj5eskjejnnmphcl22cseaj3gg/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYGVR8Nz1FK6X2HuZNWhgEC_MYOnRZ5Z0sAHw0S7LUvinW5JzdBHBzOtQQUybWFddRsUvM3sjW87Ht2L63hdiKFqw28W0m1T08nwhSfgyvnUc8cSfTinqpWoYzToIMbdeisk59u9i9yeiZG88lC_g6XrRdajLH5_pLG5B6UqMzNjmbSzrm26Xa0vZ6gCYJbfrc?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/tj5eskjejnnmphcl22cseaj3gg/1633034700000/04CS-KFSxTKnCQZhObQRBU7-_nMWGrzi/*/6AIsG_vYGVR8Nz1FK6X2HuZNWhgEC_MYOnRZ5Z0sAHw0S7LUvinW5JzdBHBzOtQQUybWFddRsUvM3sjW87Ht2L63hdiKFqw28W0m1T08nwhSfgyvnUc8cSfTinqpWoYzToIMbdeisk59u9i9yeiZG88lC_g6XrRdajLH5_pLG5B6UqMzNjmbSzrm26Xa0vZ6gCYJbfrc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2335134,19.4595683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller De Bicicletas "Parque"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.183393,19.4616327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIKE CITY</name>
+        <description>TALLER TIENDA</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1755662,19.471394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas RM</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.177363,19.4429102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicivida</name>
+        <description>Taller. </description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1744294,19.512511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FIJAMENTE LIBRES</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1429529,19.4486684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller "Ell Rayo"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0470312,19.5030191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas juniors</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0289664,19.5154049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicicletas Alex</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.029729,19.5062026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INTERBIKE</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0499294,19.5295625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RENETRON</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.050135,19.5299314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller de bicicletas "Lirio"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0278336,19.5653718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HR Bike</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0445761,19.6019823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller de bicicletas "Mercado de San Jose"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0540689,19.5730357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicicletas y Refacciones Melendez</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0546825,19.5059094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0665353,19.5095191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas y refacciones el pedal</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0674855,19.5085144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Refaccionaria de Bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.06874,19.510477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencia de Bicicletas Halcon</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0205585,19.5238319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de Bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0638973,19.5169918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0426398,19.6066819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comercial Bicicletera Casa Fernández</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.000874,19.594598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <description>5 de Febrero Poniente 1, Santa Clara Coatitla, Ecatepec de Morelos, Méx.</description>
+        <styleUrl>#icon-1590-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0708116,19.5378566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller De Biciletas El Chasis</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0718795,19.5383094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRICIBICI</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.022839,19.544256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de Bicicletas Charly</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0336751,19.5417981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas y refaccionaria - YHWH</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0610769,19.5201287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taller de bicicletas</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0936344,19.5407652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TALLER DE BICICLETAS CUSTOM BIKE</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0563027,19.5271571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BICI PARTES TONY</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0446011,19.5761578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Taller de bicicletas "Madriguera del ratón"]]></name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0309538,19.5979097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garage DF</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1443487,19.3942127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicicletas LoULe, suc. Xola</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1526971,19.3954817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bici Planeta</name>
+        <styleUrl>#icon-1590-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1005212,19.3901299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
