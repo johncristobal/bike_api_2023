@@ -1,5 +1,5 @@
 const { response, request  } = require("express");
-const { bcryptjs } = require("bcryptjs");
+const bcryptjs = require("bcryptjs");
 const { generarJWT } = require("../helpers/generar_jwt");
 const Usuario = require('../models/usuario');
 
@@ -74,7 +74,7 @@ const registerUsuario = async (req = request, res = response) => {
             token_mobile
         });
 
-        const salt = bcryptjs.genSaltSync(); 
+        const salt = bcryptjs.genSaltSync();
         user.password = bcryptjs.hashSync( password, salt );
         await user.save();
 
@@ -88,6 +88,7 @@ const registerUsuario = async (req = request, res = response) => {
         });
 
     }catch(err){
+        console.log(err);
         return res.status(500).json({
             status: false,
             error: err,
