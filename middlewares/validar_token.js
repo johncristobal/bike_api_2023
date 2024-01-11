@@ -4,7 +4,7 @@ const validarToken = async (req = request, resp = response, next) => {
 
     const token = req.header('sos-token');
     if(!token){
-        return res.status(401).json({
+        return resp.status(401).json({
             status: false,
             error: 'No hay token en la peticion'
         });
