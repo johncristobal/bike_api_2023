@@ -8,6 +8,7 @@ const authRouter = Router();
 authRouter.post('/login', [
     check('correo', 'Coloque correo válido').isEmail(),
     check('password','Contraseña obligatoria').not().isEmpty(),
+    check('password','Contraseña minimo 8 caracteres').isLength({ min: 8 }),
     validarCampos
 ], loginUsuario)
 

@@ -5,8 +5,13 @@ const validarCampos = (req, res = response, next) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()){
         
-        genericErrorResponse.response.msg = errors.array()[0]['msg'];
-        return res.status(400).json(genericErrorResponse)
+        let errorResponse = {
+            msg: "Error interno, intente más tarde...",
+            status: false,
+            error: ""
+        };
+        errorResponse.error = errors.array()[0]['msg'];
+        return res.status(400).json(errorResponse)
     }
 
     next();
